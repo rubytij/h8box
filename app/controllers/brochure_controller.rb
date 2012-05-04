@@ -1,0 +1,1 @@
+class BrochureController < ApplicationController; end
